@@ -1,4 +1,4 @@
 # Perancangan dan Analisis Algoritma
-Nama : Dafin Surya
-NIM : 23343032
-Dosen Pengampu : Randi Proska Sandra, M.Sc.
+Nama : Dafin Surya <br>
+NIM : 23343032 <br>
+Dosen Pengampu : Randi Proska Sandra, M.Sc. <br>
